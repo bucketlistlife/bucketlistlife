@@ -1,0 +1,21 @@
+{
+  "name": "bucketlistlife",
+  "version": "1.0.0",
+  "description": "E-commerce deals and product suggestions across Amazon, Flipkart, Meesho, Souldstore, Tata Neu and Bayka",
+  "main": "index.html",
+  "author": "Vinayak Mahadev Dhauskar",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "deals",
+    "shopping",
+    "affiliate",
+    "product-recommendations",
+    "amazon",
+    "flipkart"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bucketlistlife/bucketlistlife.git"
+  }
+}

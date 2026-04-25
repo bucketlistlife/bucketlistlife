@@ -1,0 +1,22 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Ignore node modules (if added in future)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore build outputs (if added in future)
+dist/
+build/
